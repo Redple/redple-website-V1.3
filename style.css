@@ -667,6 +667,9 @@ iframe {
 .cardimage {
   padding: 10px 0;
 }
+.cardimg {
+  width: 175px;
+}
 .cardcontent h4 {
   font-weight: 700;
   font-size: 1.25em;
@@ -1139,7 +1142,7 @@ iframe {
     font-size: 16px;
   }
   .serviceimg {
-    width: 65%;
+    width: 70%;
   }
 }
 @media (max-width: 640px) {
